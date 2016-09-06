@@ -1,4 +1,4 @@
-# Roots + WebriQ CMS
+# Roots
 
 This is a simple example of how to integrate netlify CMS with a roots based site.
 
